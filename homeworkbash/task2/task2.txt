@@ -1,0 +1,1 @@
+команду export PATH="$PATH:/путь/к/новой/директории"export PATH="$PATH:$1" нужно добавить в .bashrc
